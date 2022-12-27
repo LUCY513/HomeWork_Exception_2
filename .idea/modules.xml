@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Work_02/CodeReview/CodeReview.iml" filepath="$PROJECT_DIR$/Work_02/CodeReview/CodeReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work_02/CodeReview_02/CodeReview_02.iml" filepath="$PROJECT_DIR$/Work_02/CodeReview_02/CodeReview_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work_02/EmptyOutput/EmptyOutput.iml" filepath="$PROJECT_DIR$/Work_02/EmptyOutput/EmptyOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HomeWork_Exception_2.iml" filepath="$PROJECT_DIR$/.idea/HomeWork_Exception_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work_01/Work_01.iml" filepath="$PROJECT_DIR$/Work_01/Work_01.iml" />
+    </modules>
+  </component>
+</project>
